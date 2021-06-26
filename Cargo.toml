@@ -10,7 +10,7 @@ license = "MIT OR Apache-2.0"
 repository = "https://github.com/jmesmon/stm32h7x3"
 
 [dependencies]
-bare-metal = "0.1"
+bare-metal = "1.0"
 cortex-m = "0.3"
 vcell = "0.1"
 
