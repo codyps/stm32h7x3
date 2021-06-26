@@ -11,7 +11,7 @@ repository = "https://github.com/jmesmon/stm32h7x3"
 
 [dependencies]
 bare-metal = "0.1"
-cortex-m = "0.3"
+cortex-m = "0.7"
 vcell = "0.1"
 
 [dependencies.cortex-m-rt]
